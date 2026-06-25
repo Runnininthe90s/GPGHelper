@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Configuration/State
+settings.json
+
+# Temporary/Test scripts
+test.ps1
+test2.ps1
+
+# GPG Keys / User Data
+*.pub
+*.key
+*.asc
+*.gpg
