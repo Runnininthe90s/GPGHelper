@@ -16,7 +16,7 @@ GPG Helper provides an easy-to-use interface for common GnuPG (`gpg.exe`) tasks.
 
 ## Requirements
 - Windows (PowerShell 5.1+)
-- GnuPG (`gpg.exe`) installed on the system (e.g., via Gpg4win or standalone CLI).
+- GnuPG (`gpg.exe`) installed on the system (e.g., via Gpg4win https://www.gpg4win.org/ or standalone CLI).
 
 ## Setup / Compiling the Launcher
 Since compiled executables are not included in the repository, you can compile the `.exe` launcher from the provided `GPGLauncher.cs` source file using the built-in C# compiler (`csc.exe`) that comes with the .NET Framework on Windows. 
