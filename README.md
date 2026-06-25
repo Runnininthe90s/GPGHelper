@@ -2,6 +2,8 @@
 
 A native, Windows-friendly GUI built in PowerShell for managing GPG encryption, decryption, and your local keyring.
 
+<img width="780" height="475" alt="image" src="https://github.com/user-attachments/assets/531763d5-5534-4c31-9bee-4e972a69b321" />
+
 ## Overview
 GPG Helper provides an easy-to-use interface for common GnuPG (`gpg.exe`) tasks. It simplifies file encryption/decryption, prevents you from having to type complex GPG commands, and offers a straightforward way to manage your public and secret keys.
 
